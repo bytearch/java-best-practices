@@ -14,3 +14,4 @@ Java最佳实践方案-总结工作中常用的最佳落地方案
 |01|分布式唯一ID生成器| [sequence-id](https://github.com/bytearch/java-best-practices/tree/master/bytearch-sequence-id) |
 |02|mysql分库分表实战案例| [https://github.com/bytearch/mybatis-sharding](https://github.com/bytearch/mybatis-sharding) |
 |03|轻量级灰度发布方案|[https://github.com/bytearch/gray](https://github.com/bytearch/gray)
+|04|设计模式|[https://github.com/bytearch/gray](https://github.com/bytearch/java-best-practices/tree/master/bytearch-java-designPattern)
