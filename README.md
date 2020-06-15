@@ -15,3 +15,6 @@ Java最佳实践方案-总结工作中常用的最佳落地方案
 |02|mysql分库分表实战案例| [https://github.com/bytearch/mybatis-sharding](https://github.com/bytearch/mybatis-sharding) |
 |03|轻量级灰度发布方案|[https://github.com/bytearch/gray](https://github.com/bytearch/gray)
 |04|设计模式|[java-designPattern](https://github.com/bytearch/java-best-practices/tree/master/bytearch-java-designPattern)
+|05|监控/报警|doing|
+|06|binlog同步(canal)|doing|
+|07|配置中心|doing|
